@@ -2,3 +2,4 @@
 
 ![Screenshot](/screenshot.png?raw=true "Screenshot")
  
+Tested with XeLaTex
